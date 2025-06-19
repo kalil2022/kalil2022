@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Kalil , and I'm a cybersecurity student . I am interested in computer security and programming language !
+
+- 🔭 I’m currently working on  my first repo in Github
+- - 🌱 I’m currently learning ethical hacking courses 
 
 <!--
 **kalil2022/kalil2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
